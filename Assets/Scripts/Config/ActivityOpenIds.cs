@@ -2,6 +2,9 @@
 {
     public enum ActivityOpenIds
     {
-        MidAutumnFestival = 1
+        NationalDay = 1,
+        MidAutumnFestival = 2
     }
 }
+
+
